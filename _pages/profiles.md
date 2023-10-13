@@ -13,30 +13,25 @@ profiles:
     image: 
     content: m_mazlaghani.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-    
+    more_info: 
   - align: left
     image: roshanfekr.jpg
     content: roshanfekr.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-
+    more_info: 
     - align: right
     image: 
     content: MahdiFirouzbakht.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-
+    more_info: 
   - align: left
     image: SamanMohammadiRaouf.jpg
     content: SamanMohammadiRaouf.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-
+    more_info: 
     - align: right
     image: S_mahdi.jpg
     content: S_mahdi.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-
+    more_info: 
 ---
