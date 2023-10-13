@@ -1,6 +1,6 @@
 ### Ali Amiryan
 
-'m a student at Amirkabir University of Tehran, originally from Mashhad but currently living in Tehran. I'm in my third term, and so far, I've maintained a GPA of 4.
+I'm a student at Amirkabir University of Tehran, originally from Mashhad but currently living in Tehran. I'm in my third term, and so far, I've maintained a GPA of 4.
 I believe in the power of teamwork and have always been dedicated to collaborative efforts. Before my current program, I earned my Bachelor of Science in Computer Engineering from Ferdowsi University of Mashhad with a GPA of 4.
 trading, with a focus on Forex and Crypto markets. I've also completed tangible projects in backend development using Django and Laravel.
 
