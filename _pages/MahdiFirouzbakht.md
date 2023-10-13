@@ -1,6 +1,5 @@
 ### Mahdi Firouzbakht, MSc Student
 
-#### Introduction
 I am a Master's student at [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) pursuing a degree in computer engineering. My specialization focuses on deep learning and computer vision. I obtained my undergraduate degree in computer engineering from [Kharazmi University](http://www.khu.ac.ir/en/) and have since dedicated my academic journey to the development of practical methodologies in deep learning and machine learning, particularly in the context of supervised learning tasks.
 My passion is centered on the application of these methodologies within the fields of computer vision and image processing. I am particularly interested in the processing of medical images, where the application of deep learning can bring significant advancements. Currently, my research is deeply engaged in exploring the potential of vision transformer networks for tasks such as detection and classification. This ongoing work fuels my enthusiasm for the exciting possibilities within the field of artificial intelligence.
 
