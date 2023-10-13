@@ -14,7 +14,7 @@ profiles:
     content: m_mazlaghani.md
     image_circular: false # crops the image to make it circular
     more_info: 
-  - align: left
+  - align: right
     image: roshanfekr.jpg
     content: roshanfekr.md
     image_circular: false # crops the image to make it circular
@@ -24,7 +24,7 @@ profiles:
     content: MahdiFirouzbakht.md
     image_circular: false # crops the image to make it circular
     more_info:
-  - align: left
+  - align: right
     image: amiryan.jpg
     content: Amiryan.md
     image_circular: false # crops the image to make it circular
@@ -34,7 +34,7 @@ profiles:
     content: SamanMohammadiRaouf.md
     image_circular: false # crops the image to make it circular
     more_info: 
-  - align: left
+  - align: right
     image: S_mahdi.jpg
     content: S_mahdi.md
     image_circular: false # crops the image to make it circular
