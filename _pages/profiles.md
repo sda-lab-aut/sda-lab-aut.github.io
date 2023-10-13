@@ -23,13 +23,18 @@ profiles:
     image: firouzbakht.jpg
     content: MahdiFirouzbakht.md
     image_circular: false # crops the image to make it circular
-    more_info: 
+    more_info:
   - align: left
+    image: 
+    content: Amiryan.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+  - align: right
     image: SamanMohammadiRaouf.jpg
     content: SamanMohammadiRaouf.md
     image_circular: false # crops the image to make it circular
     more_info: 
-  - align: right
+  - align: left
     image: S_mahdi.jpg
     content: S_mahdi.md
     image_circular: false # crops the image to make it circular
