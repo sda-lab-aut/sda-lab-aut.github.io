@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Statistical Data Analysis Laboratory</p>
-    <p>CEIT building-Amirkabir University of Technology</p>
-    <p>Hafez Ave-Tehran-Iran</p>
+    <p>Statistical Data Analysis Laboratory - CEIT building-Amirkabir University of Technology - Hafez Ave-Tehran-Iran</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
