@@ -10,20 +10,6 @@ My primary research interest lies at the intersection of Deep Learning, Machine 
 #### Education
 I will be graduating with a Master's in Computer Engineering (Artificial Intelligence) from Amirkabir University of Technology (Tehran Polytechnic) with a GPA of 3.31. My thesis, titled "Cancer Detection in Medical Images," explores the implementation of a cutting-edge vision transformer-based neural network for breast cancer classification. Extensive research was conducted, focusing on historical methods and deep learning techniques for this critical medical task. I hold a Bachelor's degree in Computer Engineering ( Software Engineering ) from Kharazmi University of Tehran, achieving GPA of 3.70. My Bachelor's Project involved the creation of a Python and Django-based Cloud system, tailored to optimize the administration of operating systems within university labs. This cutting-edge innovation marks a substantial advancement by enhancing privacy, fortifying security, and improving operational efficiency, thereby redefining the approach to OS management in academic settings.
 
-#### In Preparation Papers
-@article{firouzbakht2023breast,
-  title = {Breast Cancer Diagnosis in Mammography Using Artificial Intelligence: A Review},
-  author = {Mahdi Firouzbakht and Mahdi Niknezhad and Maryam Amirmazlaghani},
-  year = {2023},
-}
-
-@article{niknezhad2023polyp,
-  title = {Polyp Image Segmentation},
-  author = {Mahdi Niknezhad and Mahdi Firouzbakht and Maryam Amirmazlaghani},
-  year = {2023},
-}
-
-
 #### Contact Information
 
 - **Email:** [MahdiFiruzbakht23@gmail.com](mailto:MahdiFiruzbakht23@gmail.com)
