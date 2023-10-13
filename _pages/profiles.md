@@ -20,7 +20,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
   - align: right
-    image: 
+    image: firouzbakht.jpg
     content: MahdiFirouzbakht.md
     image_circular: false # crops the image to make it circular
     more_info: 
