@@ -4,14 +4,14 @@ Hello! I'm currently an MSc student in Artificial Intelligence at Amirkabir Univ
 
 Prior to my MSc I finished my 𝐁𝐒𝐜 in Computer Engineering at the Department of Computer Engineering, [Bu-Ali Sina University](http://basu.ac.ir/en/home).
 
-#### Research Interests
+##### Research Interests
 - **Adversarial Robustness**
 - **Computer Vision**
 - **Computational Neuroscience**
 - **Trustworthy AI**
 - **Generative AI**
 
-#### Contact
+##### Contact
 - [**Homepage**](https://soroush-mim.github.io/)
 
 
