@@ -35,7 +35,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info:
   - align: right
-    image: Newsha.png
+    image:
     content: Newsha.md
     image_circular: false # crops the image to make it circular
     more_info:      
