@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: mazlaghani_1.jpg
+  image: SDA.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Statistical Data Analysis Laboratory - CEIT building-Amirkabir University of Technology - Hafez Ave-Tehran-Iran</p>
