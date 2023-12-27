@@ -1,3 +1,3 @@
 ### Assoc. Prof. Maryam Amirmazlaghani, PhD
 
-Associate Professor at the Artificial Intelligence and Robotics group in the Department of Computer Engineering at Amirkabir University of Technology(Tehran Polytechnic).
+[Maryam Amirmazlaghani](https://aut.ac.ir/cv/2296/MARYAM-AMIR-MAZLAGHANI?slc_lang=en&&cv=2296&mod=scv) is an associate professor in Artificial Intelligence group of the Computer Engineering Department at Amirkabir University of Technology. Also, she is the head of Statistical Data Analysis (SDA) lab. She received the M.S. degree from Sharif University of Technology in 2005, and the Ph.D. degree from Amirkabir University of Technology in 2009 both in electrical engineering. Her research interests include deep learning, image processing, medical data analysis, statistical learning and adversarial learning.
