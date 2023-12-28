@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Soroush Mahdi
-description: MSc
+title:
+description:
 img: assets/img/S_mahdi.jpg
 importance: 1
 category: alumni
