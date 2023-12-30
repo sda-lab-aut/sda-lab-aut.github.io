@@ -1,14 +1,11 @@
 ---
 layout: page
 title: Behnam Roshanfekr
-description: PhD
+description: PhD Student
 img: assets/img/roshanfekr.jpg
 importance: 2
 category: current
 ---
-
-### Behnam Roshanfekr, PhD Student
-
 
 I am a PhD candidate in the department of Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic) where I received my M.Sc. in 2017. My research field of academia is Graph Signal Processing. In my free time, I thoroughly enjoy playing chess.
 
