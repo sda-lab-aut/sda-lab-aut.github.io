@@ -4,7 +4,7 @@ title: Ali Amiryan
 description: MSc Student
 img: assets/img/amiryan.jpg
 importance: 7
-category: current
+category: MSc
 ---
 
 I'm a student at Amirkabir University of Tehran, originally from Mashhad but currently living in Tehran. I'm in my third term, and so far, I've maintained a GPA of 4.
