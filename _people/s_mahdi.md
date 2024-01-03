@@ -4,7 +4,7 @@ title: Soroush Mahdi
 description: MSc Student
 img: assets/img/S_mahdi.jpg
 importance: 1
-category: alumni
+category: Alumni
 ---
 
 Hello! I'm currently an MSc student in Artificial Intelligence at Amirkabir University of Technology. Alongside my studies, I'm actively engaged as a research assistant in the Statistical Data Analysis Laboratory, under the expert guidance of [Prof. AmirMazlaghani](https://scholar.google.com/citations?user=gxbTUfEAAAAJ&hl=en&oi=ao). I'm particularly intrigued by the challenge of enhancing the **adversarial robustness** of neural networks and working to improve them. Moreover, I'm fervently exploring opportunities to contribute to cutting-edge research as **I actively seek out Ph.D. positions to continue my academic journey.**
