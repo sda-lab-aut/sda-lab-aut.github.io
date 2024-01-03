@@ -4,7 +4,7 @@ title: Mahdi Firouzbakht
 description: MSc Student
 img: assets/img/firouzbakht.jpg
 importance: 5
-category: current
+category: MSc
 ---
 
 I am a Master's student at [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en) pursuing a degree in computer engineering. My specialization focuses on deep learning and computer vision. I obtained my undergraduate degree in computer engineering from [Kharazmi University](http://www.khu.ac.ir/en/) and have since dedicated my academic journey to the development of practical methodologies in deep learning and machine learning, particularly in the context of supervised learning tasks.
