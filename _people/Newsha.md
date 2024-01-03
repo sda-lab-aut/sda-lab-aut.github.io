@@ -4,7 +4,7 @@ title: Newsha Shahbodaghkhan
 description: MSc Student
 img: assets/img/Newsha.jpg
 importance: 8
-category: current
+category: MSc
 ---
 
 - Email: [newsha.shah@gmail.com](mailto:newsha.shah@gmail.com), [newsha.shah@aut.ac.ir](mailto:newsha.shah@aut.ac.ir)
