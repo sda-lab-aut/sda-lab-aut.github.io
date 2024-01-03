@@ -4,7 +4,7 @@ title: Saman Mohammadi Raouf
 description: MSc Student
 img: assets/img/SamanMohammadiRaouf.jpg
 importance: 9
-category: current
+category: MSc
 ---
 
 Ever since high school, I've been interested in studying fields related to computers. This led me to pursue a degree in Computer Engineering at the Iran University of Science and Technology. I graduated with a Bachelor's in the summer of 2023 and immediately afterward, began my studies in Artificial Intelligence due to my passion for the subject. I'm particularly interested in machine learning, deep learning, data analysis, and research topics in this area and dedicate most of my time to them.
