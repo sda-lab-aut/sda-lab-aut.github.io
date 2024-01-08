@@ -2,7 +2,7 @@
 layout: page
 title: Farzane Abdoli
 description: PhD Student
-img: assets/img/Abdoli.jpg
+img: assets/img/abdoli.jpg
 importance: 4
 category: PhD
 ---
