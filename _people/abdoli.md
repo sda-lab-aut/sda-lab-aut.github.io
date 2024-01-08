@@ -17,7 +17,7 @@ I received my M.S. degree in Electrical Engineering in 2019 at Amirkabir Univers
 - **Generative AI**
 
 ##### Publications
-- ** Abdoli F, Sheikhzadeh H, Pourahmadi V. Deep Deterministic Policy Gradient in Acoustic to Articulatory Inversion. In2022 12th International Conference on Computer and Knowledge Engineering (ICCKE) 2022 Nov 17 (pp. 080-084). IEEE.**
+- **Abdoli F, Sheikhzadeh H, Pourahmadi V. Deep Deterministic Policy Gradient in Acoustic to Articulatory Inversion. In2022 12th International Conference on Computer and Knowledge Engineering (ICCKE) 2022 Nov 17 (pp. 080-084). IEEE.**
 
 ##### Education
 - Amirkabir University of Technology (Tehran Polytechnic), Ph.D. in Artificial Intelligence, Sep.2022 - Present
